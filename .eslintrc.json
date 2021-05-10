@@ -15,10 +15,5 @@
   "rules": {
     "no-console": "warn",
     "prettier/prettier": "error"
-  },
-  "settings": {
-    "import/resolver": {
-      "typescript": {}
-    }
   }
 }
